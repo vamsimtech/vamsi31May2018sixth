@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample suite">
+<test name="sample test">
+<classes>
+<class name="samplePack.LaunchBrowserCheck"/>
+</classes>
+</test>
+</suite>
